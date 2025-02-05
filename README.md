@@ -93,7 +93,7 @@ The final step of the project is to integrate the forecasting model into a real-
 ## Contributors
 
 - **Jake Brehm** - [Email](mailto:mail@jakebrehm.com) | [LinkedIn](http://linkedin.com/in/jacobbrehm) | [Github](http://github.com/jakebrehm)
-- **Josh Jingtian Wang** - [Email](13jtjoshua@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshjingtianwang/) | [GitHub](https://github.com/JoshJingtianWang)
+- **Jingtian Wang** - [Email](13jtjoshua@gmail.com) | [LinkedIn](https://www.linkedin.com/in/joshjingtianwang/) | [GitHub](https://github.com/JoshJingtianWang)
 - **Corryn Collins** - [Email](mailto:corrync13@gmail.com) | [LinkedIn](https://www.linkedin.com/in/corryn-collins) | [Github](https://github.com/corrync)
 - **Tessa Charles** - [Email](mailto:tmcharles1@outlook.com) | [LinkedIn](https://www.linkedin.com/in/tessa-m-charles) | [Github](https://github.com/tcharles12345)
 - **Varun Arvind** - [Email](mailto:varun.arvind@gmail.com) | [LinkedIn](https://www.linkedin.com/in/varun-arvind)
